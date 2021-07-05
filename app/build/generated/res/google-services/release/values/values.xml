@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">270492493545-bkitrqugmesm27okunlci70imsitpvri.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ebusspass-ac11b-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">270492493545</string>
+    <string name="google_api_key" translatable="false">AIzaSyBvlqkvpYBSry5fHEoh6wLOOq6BCN4vQ8o</string>
+    <string name="google_app_id" translatable="false">1:270492493545:android:d3020be20e2652c0f2b278</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBvlqkvpYBSry5fHEoh6wLOOq6BCN4vQ8o</string>
+    <string name="google_storage_bucket" translatable="false">ebusspass-ac11b.appspot.com</string>
+    <string name="project_id" translatable="false">ebusspass-ac11b</string>
+</resources>
