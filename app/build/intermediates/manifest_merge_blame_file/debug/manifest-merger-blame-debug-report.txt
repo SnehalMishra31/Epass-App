@@ -1,0 +1,155 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.epass_conductor"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:6:5-8:35
+12        android:name="android.hardware.camera"
+12-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:7:9-47
+13        android:required="true" />
+13-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:8:9-32
+14
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:10:5-65
+15-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:10:22-62
+16
+17    <uses-feature android:name="android.hardware.camera.autofocus" />
+17-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:12:5-70
+17-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:12:19-67
+18
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:14:5-81
+19-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:14:22-78
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:15:5-67
+20-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:15:22-64
+21
+22    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+23    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->[com.google.firebase:firebase-firestore:22.1.2] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1e2b8cb0dc104cee907ef5edc7100cb3\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:13:5-79
+24-->[com.google.firebase:firebase-firestore:22.1.2] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1e2b8cb0dc104cee907ef5edc7100cb3\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:13:22-76
+25
+26    <application
+26-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:17:5-39:19
+27        android:allowBackup="true"
+27-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:18:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.3.1] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\3a1f9891049662df718d50c59e42e210\core-1.3.1\AndroidManifest.xml:24:18-86
+29        android:debuggable="true"
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:19:9-43
+31        android:label="@string/app_name"
+31-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:20:9-41
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:21:9-54
+33        android:supportsRtl="true"
+33-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:22:9-35
+34        android:testOnly="true"
+35        android:theme="@style/AppTheme" >
+35-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:23:9-40
+36        <activity android:name="com.epass_conductor.ProfileActivity" />
+36-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:24:9-62
+36-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:24:19-50
+37        <activity android:name="com.epass_conductor.VerifyEpass" />
+37-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:25:9-58
+37-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:25:19-46
+38        <activity android:name="com.epass_conductor.SuccessActivity" />
+38-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:26:9-62
+38-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:26:19-50
+39        <activity android:name="com.epass_conductor.SuccessOrFailureActivity" />
+39-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:27:9-62
+39-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:27:19-59
+40        <activity android:name="com.epass_conductor.ScannedBarcodeActivity" >
+40-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:28:9-34:20
+40-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:28:19-57
+41            <intent-filter>
+41-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:29:13-33:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:30:17-69
+42-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:30:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:32:17-77
+44-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:32:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <meta-data
+48-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:36:9-38:39
+49            android:name="com.google.android.gms.vision.DEPENDENCIES"
+49-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:37:13-70
+50            android:value="barcode" />
+50-->C:\Users\DELL\Documents\Conductor\app\src\main\AndroidManifest.xml:38:13-36
+51
+52        <service
+52-->[com.google.firebase:firebase-firestore:22.1.2] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1e2b8cb0dc104cee907ef5edc7100cb3\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:17:9-23:19
+53            android:name="com.google.firebase.components.ComponentDiscoveryService"
+53-->[com.google.firebase:firebase-firestore:22.1.2] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1e2b8cb0dc104cee907ef5edc7100cb3\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:18:13-84
+54            android:directBootAware="true"
+54-->[com.google.firebase:firebase-common:19.5.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\59eb842991d4dcfbb8c03e33eebf90d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+55            android:exported="false" >
+55-->[com.google.firebase:firebase-firestore:22.1.2] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1e2b8cb0dc104cee907ef5edc7100cb3\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:19:13-37
+56            <meta-data
+56-->[com.google.firebase:firebase-firestore:22.1.2] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1e2b8cb0dc104cee907ef5edc7100cb3\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:20:13-22:85
+57                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+57-->[com.google.firebase:firebase-firestore:22.1.2] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1e2b8cb0dc104cee907ef5edc7100cb3\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:21:17-111
+58                android:value="com.google.firebase.components.ComponentRegistrar" />
+58-->[com.google.firebase:firebase-firestore:22.1.2] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\1e2b8cb0dc104cee907ef5edc7100cb3\jetified-firebase-firestore-22.1.2\AndroidManifest.xml:22:17-82
+59            <meta-data
+59-->[com.google.firebase:firebase-storage:19.2.2] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\b78e0f8f9dbeef2ac8a76f7b8485249f\jetified-firebase-storage-19.2.2\AndroidManifest.xml:33:13-35:85
+60                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+60-->[com.google.firebase:firebase-storage:19.2.2] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\b78e0f8f9dbeef2ac8a76f7b8485249f\jetified-firebase-storage-19.2.2\AndroidManifest.xml:34:17-107
+61                android:value="com.google.firebase.components.ComponentRegistrar" />
+61-->[com.google.firebase:firebase-storage:19.2.2] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\b78e0f8f9dbeef2ac8a76f7b8485249f\jetified-firebase-storage-19.2.2\AndroidManifest.xml:35:17-82
+62            <!--
+63                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+64                clients to use it as well, by defining this registrar in their own core/common library.
+65            -->
+66            <meta-data
+66-->[com.google.firebase:firebase-common:19.5.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\59eb842991d4dcfbb8c03e33eebf90d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+67                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+67-->[com.google.firebase:firebase-common:19.5.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\59eb842991d4dcfbb8c03e33eebf90d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+68                android:value="com.google.firebase.components.ComponentRegistrar" />
+68-->[com.google.firebase:firebase-common:19.5.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\59eb842991d4dcfbb8c03e33eebf90d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+69        </service>
+70
+71        <provider
+71-->[com.google.firebase:firebase-common:19.5.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\59eb842991d4dcfbb8c03e33eebf90d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+72            android:name="com.google.firebase.provider.FirebaseInitProvider"
+72-->[com.google.firebase:firebase-common:19.5.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\59eb842991d4dcfbb8c03e33eebf90d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+73            android:authorities="com.epass_conductor.firebaseinitprovider"
+73-->[com.google.firebase:firebase-common:19.5.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\59eb842991d4dcfbb8c03e33eebf90d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+74            android:directBootAware="true"
+74-->[com.google.firebase:firebase-common:19.5.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\59eb842991d4dcfbb8c03e33eebf90d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+75            android:exported="false"
+75-->[com.google.firebase:firebase-common:19.5.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\59eb842991d4dcfbb8c03e33eebf90d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+76            android:initOrder="100" />
+76-->[com.google.firebase:firebase-common:19.5.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\59eb842991d4dcfbb8c03e33eebf90d7\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+77
+78        <activity
+78-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\2f5947478516c14fc507583e27eabc7c\jetified-play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
+79            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+79-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\2f5947478516c14fc507583e27eabc7c\jetified-play-services-base-17.4.0\AndroidManifest.xml:24:13-79
+80            android:exported="false"
+80-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\2f5947478516c14fc507583e27eabc7c\jetified-play-services-base-17.4.0\AndroidManifest.xml:25:13-37
+81            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+81-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\2f5947478516c14fc507583e27eabc7c\jetified-play-services-base-17.4.0\AndroidManifest.xml:26:13-72
+82
+83        <meta-data
+83-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\fc97e4f43bf35c01c6f595cdddbbec14\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
+84            android:name="com.google.android.gms.version"
+84-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\fc97e4f43bf35c01c6f595cdddbbec14\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58
+85            android:value="@integer/google_play_services_version" />
+85-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\fc97e4f43bf35c01c6f595cdddbbec14\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
+86    </application>
+87
+88</manifest>

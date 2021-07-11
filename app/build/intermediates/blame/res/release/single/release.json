@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_textview_shape.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\textview_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_email.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\layout\\activity_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_bgscanner.jpg.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\bgscanner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_bus_icon.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\bus_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_backgroundtheme.jpg.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\backgroundtheme.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_journaldev_logo.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-hdpi\\journaldev_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_account_verification.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\ic_account_verification.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_journaldev_logo.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-mdpi\\journaldev_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_barcode_picture.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\layout\\activity_barcode_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_icon_shape.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\icon_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_scan_barcode.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\layout\\activity_scan_barcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_epasses.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\ic_epasses.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_bussplashscreen.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\bussplashscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_journaldev_logo.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-xxhdpi\\journaldev_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_journaldev_logo.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-xhdpi\\journaldev_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_assignment_ind_24.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\ic_baseline_assignment_ind_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_verify_epass.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\layout\\activity_verify_epass.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_bussplashscreen2.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\bussplashscreen2.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_rounded_shape.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\rounded_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_journaldev_logo.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-xxxhdpi\\journaldev_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_profile2.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\layout\\activity_profile2.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_baseline_archive_24.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\ic_baseline_archive_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_textview_shape2.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\textview_shape2.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\drawable_settings_icon.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\drawable\\settings_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_success.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\layout\\activity_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\Documents\\Conductor\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_success_or_failure.xml.flat",
+        "source": "C:\\Users\\DELL\\Documents\\Conductor\\app\\src\\main\\res\\layout\\activity_success_or_failure.xml"
+    }
+]
